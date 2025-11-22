@@ -1,7 +1,6 @@
 # Dotfiles
 Personal configuration files to use across different machines
 
-
 # Windows 10 using WSL2
 - Terminal on Windows 10
   - WSL2 (Ubuntu 24.04)
@@ -33,3 +32,26 @@ Dependencies to install (apt install)
 - npm
 - go 
 - xclip
+
+# Ubuntu 24.04
+
+Most of the same things, 
+## Terminal Emulator 
+Alacritty
+<!-- TODO: Include alacritty.toml  -->
+
+## Shell
+Zsh
+Oh-my-zsh
+P10k
+<!-- TODO: Include install scripts and .zsh / .p10k/zshrc? -->
+
+## Desktop Environment
+
+Base GNOME
+Edit shortcuts to allow switching workspace with Left:\[Ctrl+,\] & Right: \[Ctrl+.\]
+Edit dock to autohide and small icons
+
+Extensions
+---
+- Hide Top bar
